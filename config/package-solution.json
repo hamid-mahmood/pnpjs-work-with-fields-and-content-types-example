@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pnpjs-work-with-fields-and-content-types-example-client-side-solution",
+    "id": "d20bd503-608c-4c89-b91b-948b5e8567b4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "pnpjs-work-with-fields-and-content-types-example description"
+      },
+      "longDescription": {
+        "default": "pnpjs-work-with-fields-and-content-types-example description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "pnpjs-work-with-fields-and-content-types-example Feature",
+        "description": "The feature that activates elements of the pnpjs-work-with-fields-and-content-types-example solution.",
+        "id": "b441186b-d6b7-4dae-90d6-7e2292521cf8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/pnpjs-work-with-fields-and-content-types-example.sppkg"
+  }
+}

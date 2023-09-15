@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "pnpjs-work-with-fields-and-content-types-example",
+    "libraryId": "d20bd503-608c-4c89-b91b-948b5e8567b4",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "pnpjs-work-with-fields-and-content-types-example",
+    "solutionShortDescription": "pnpjs-work-with-fields-and-content-types-example description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
